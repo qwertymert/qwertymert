@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Mert.
-- I currently work on computer vision projects.
+- I currently work on computer vision and data engineering projects.
 
 <!---
 qwertymert/qwertymert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
