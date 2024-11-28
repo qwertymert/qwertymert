@@ -7,7 +7,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jVQUxfMAAAAJ&hl=tr) 
 
 ### 💻 Website:
-www.mertgulsen.com
+mertgulsen.com
  <!--- 
 ### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
