@@ -2,12 +2,12 @@
 👋 Hi, I'm Mert.<br> 📷 I currently work on computer vision and data engineering projects.
 
 
-## 🌐 Profiles:
+### 🌐 Profiles:
 <!---[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-gulsen/) -->
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=jVQUxfMAAAAJ&hl=tr) 
 
-# 💻 Website:
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.mertgulsen.com/)
+### 💻 Website:
+https://www.mertgulsen.com/
  <!--- 
 ### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
