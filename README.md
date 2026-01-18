@@ -1,6 +1,14 @@
 ### About Me:
-👋 Hi, I'm Mert.<br> 📷 I currently work on computer vision and data engineering projects.
+👋 Hi, I'm Mert.<br>
+AI Engineer & M.Sc. Candidate, Istanbul Technical University
 
+I develop autonomous agents and deep learning architectures, utilizing a research-driven approach to build production systems.
+
+### Focus Areas
+
+* **Generative AI & Agents:** Designing context-aware autonomous systems and scalable RAG pipelines.
+* **Computer Vision:** Background in self-supervised learning, adversarial robustness, and deep learning stability.
+* **Systems Engineering:** Building high-performance backend architectures and cloud-native infrastructure for data-intensive applications.
 
 ### 🌐 Profiles:
 <!---[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-gulsen/) -->
