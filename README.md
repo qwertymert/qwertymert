@@ -1,6 +1,7 @@
 ### About Me:
 👋 Hi, I'm Mert.<br>
-AI Engineer & M.Sc. Candidate, Istanbul Technical University
+B.S., Artificial Intelligence and Data Engineering,
+M.Sc. Computer Science Candidate, Istanbul Technical University
 
 I develop autonomous agents and deep learning architectures, utilizing a research-driven approach to build production systems.
 
